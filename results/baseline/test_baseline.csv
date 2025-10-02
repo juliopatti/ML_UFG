@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1,BalancedAccuracy,GMean,GMeanMicro,AUPRC
+NaiveBayes,0.96,0.68,0.9,0.74,0.9,0.9,0.96,0.64
+LogisticRegression,0.99,0.87,0.82,0.84,0.82,0.8,0.99,0.64
+LightGBM,0.98,0.89,0.7,0.76,0.7,0.64,0.98,0.61

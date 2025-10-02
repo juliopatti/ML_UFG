@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1,BalancedAccuracy,GMean,GMeanMicro,AUPRC,GmeanFactor
+nb,0.978,0.918,0.581,0.631,0.581,0.403,0.978,0.661,0.394
+lgbm,0.98,0.794,0.779,0.786,0.779,0.75,0.98,0.605,0.735
+logreg,0.985,0.87,0.781,0.819,0.781,0.752,0.985,0.666,0.74

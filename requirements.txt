@@ -1,0 +1,26 @@
+# ==========================================================
+# requirements.txt
+# Ambiente Python 3.11 criado com venv
+# ==========================================================
+
+# Passos iniciais (não são parte do requirements):
+#   python3.11 -m venv venv
+#   source venv/bin/activate
+#   pip install --upgrade pip
+
+# Bibliotecas instaladas em sequência:
+ipykernel==6.30.1
+pandas==2.3.2
+matplotlib==3.10.6
+seaborn==0.13.2
+unidecode==1.4.0
+scikit-learn==1.7.2
+lightgbm==4.6.0
+tqdm==4.67.1
+ipywidgets==8.1.7
+spacy==3.8.7
+scikit-optimize==0.10.2
+
+# Passos finais (fora do requirements):
+#   python -m ipykernel install --user --name=venv --display-name "ml_kernel"
+#   python -m spacy download en_core_web_sm

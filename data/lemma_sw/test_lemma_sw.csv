@@ -1,0 +1,5 @@
+Config,Modelo,Accuracy,Precision,Recall,F1,BalancedAccuracy,GMean,GMeanMicro,AUPRC
+stop,LightGBM,0.98,0.84,0.69,0.74,0.69,0.61,0.98,0.54
+lemma,LightGBM,0.98,0.86,0.73,0.78,0.73,0.68,0.98,0.62
+lemma_stop,LightGBM,0.98,0.85,0.7,0.75,0.7,0.64,0.98,0.6
+baseline,LightGBM,0.98,0.89,0.7,0.76,0.7,0.64,0.98,0.61
